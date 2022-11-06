@@ -223,7 +223,7 @@ header {
     bottom: 0;
     margin: auto 0px;
     position: absolute;
-    background-image: url(../images/Group-457.png);
+    background-image: url(./images/Group-457.png);
 }
 
 .baths {
@@ -240,7 +240,7 @@ header {
     bottom: 0;
     margin: auto 0px;
     position: absolute;
-    background-image: url(../images/Group-458.png);
+    background-image: url(./images/Group-458.png);
 }
 
 .sqft {
@@ -257,7 +257,7 @@ header {
     bottom: 0;
     margin: auto 0px;
     position: absolute;
-    background-image: url(../images/Subtract.png);
+    background-image: url(./images/Subtract.png);
 }
 
 /* HOUSE SECTION */
@@ -317,7 +317,7 @@ header {
 }
 
 .phone-image {
-    background: url(../images/home-illustration-Mask.png);
+    background: url(./images/home-illustration-Mask.png);
 }
 
 .center {
